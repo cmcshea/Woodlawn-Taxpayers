@@ -5,10 +5,10 @@ Woodlawn Heights Taxpayers and Community Association, Inc.
 # Created by
 
 Cory McShae
+<br>
 Jonathan Behar
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
