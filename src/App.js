@@ -6,6 +6,7 @@ import Wrapper from './components/Wrapper';
 import Home from './pages/Home';
 import About from './pages/About';
 import './App.css';
+import Hero from './components/Hero';
 
 function App() {
   return (

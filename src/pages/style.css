@@ -1,0 +1,11 @@
+.size50 {
+	/* width: 7.5%;
+  height: 7.5%; */
+	width: 25%;
+	height: 25%;
+}
+
+p {
+    color: black;
+    font-size: 15px;
+}
