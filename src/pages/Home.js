@@ -2,18 +2,17 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import Container from "../components/Container";
 import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
 
 import "./style.css";
 
 function Home() {
     return (
         <div>
-        <img
-            className="size50"
-            alt="streamLineLogo"
-            src={"https://www.bronxhistoricaltours.com/uploads/3/8/6/0/38603287/1957474_orig.jpg"}
+        <Hero backgroundImage="https://www.bronxhistoricaltours.com/uploads/3/8/6/0/38603287/1957474_orig.jpg">
+}
         />{" "}
-        <h1>Woodlawn Heights Taxpayers and Community Association, Inc.</h1>
+        <h2>Woodlawn Heights Taxpayers and Community Association, Inc.</h2>
         <p className="home">Established in 1895, The Woodlawn Taxpayers Association is a not-for-profit community organization that works to service the needs of the neighborhood.
 Our goal is to protect the public interest of the Woodlawn Heights community by holding meetings the second Monday of each month at 7:30pm. These meetings are usually located in the St. Barnabas Elementary School Cafeteria unless otherwise noted. 
 
@@ -45,6 +44,7 @@ Planting of hundreds of trees and flowers in the neighborhood.
 Installing Bishop’s crook-style street lighting fixtures on Katonah Ave.
 The Association has primarily been supported through the annual payment of modest dues and donations from people like you. It has no paid staff, only volunteers. As a direct result, Woodlawn still retains its small-town charm.
 Become part of your neighborhood civic association! Help keep Woodlawn Strong.</p>
+</Hero>
     </div>
     );
 }
