@@ -5,7 +5,7 @@ import Navbar from "../components/Navbar";
 
 import "./style.css";
 
-function About() {
+function Membership() {
     return (
         <div>
         <img
@@ -33,4 +33,4 @@ Community Building with Neighborhood Events</p>
     </div>
     );
 }
-export default About;
+export default Membership;
