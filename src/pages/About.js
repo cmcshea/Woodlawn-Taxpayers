@@ -2,18 +2,17 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import Container from "../components/Container";
 import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
 
 import "./style.css";
 
 function About() {
     return (
         <div>
-        <img
-            className="size50"
-            alt="streamLineLogo"
-            src={"https://www.bronxhistoricaltours.com/uploads/3/8/6/0/38603287/1957474_orig.jpg"}
+        <Hero backgroundImage="https://www.bronxhistoricaltours.com/uploads/3/8/6/0/38603287/1957474_orig.jpg">
+}
         />{" "}
-        <h1>Woodlawn Heights Taxpayers and Community Association, Inc.</h1>
+        <h2>Woodlawn Heights Taxpayers and Community Association, Inc.</h2>
         <p className="home">The Woodlawn Heights Taxpayers and Community Association held its first meeting on May 10, 1895. The goal was to create a civic association that works for all residents, tenants, shareholders, homeowners, alike. 
 
 Our Mission Statement is "To make Woodlawn a better place in which to live."  This has been the major focus of the members of the Association since it was established in 1895. Our all-volunteer Board work to serve the needs of our great neighborhood. It takes great neighbors to make a neighborhood great so get involved. 
@@ -30,6 +29,7 @@ Quality Public Transportation
 Working with our Elected Officials 
 Keeping Quality-of-Life Issues a priority
 Community Building with Neighborhood Events</p>
+</Hero>
     </div>
     );
 }

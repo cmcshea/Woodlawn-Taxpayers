@@ -14,22 +14,42 @@ function Membership() {
             src={"https://www.bronxhistoricaltours.com/uploads/3/8/6/0/38603287/1957474_orig.jpg"}
         />{" "}
         <h1>Woodlawn Heights Taxpayers and Community Association, Inc.</h1>
-        <p className="home">The Woodlawn Heights Taxpayers and Community Association held its first meeting on May 10, 1895. The goal was to create a civic association that works for all residents, tenants, shareholders, homeowners, alike. 
+        <p className="home">Membership
+The Association is supported through the annual payment of modest dues and donations from people like you. Become part of your neighborhood civic association! Help keep Woodlawn strong.
 
-Our Mission Statement is "To make Woodlawn a better place in which to live."  This has been the major focus of the members of the Association since it was established in 1895. Our all-volunteer Board work to serve the needs of our great neighborhood. It takes great neighbors to make a neighborhood great so get involved. 
+Yearly Membership dues are $15. 
+Checks Made Payable to:  The Woodlawn Taxpayers Association. 
+Please join us at the next Woodlawn Heights Taxpayers & Community Association general meeting on the second Monday of the month at 7:30PM, at the St Barnabas Elementary School cafeteria. We look forward to seeing you there.  
 
-Monthly open information Meetings
+Voice your opinion, meet some friends, and win a raffle or two. 
 
-Monthly Newsletter
-Collaborating with Federal, State and City Agencies
-Neighborhood Beautification
-Building Better Schools
-Keeping the neighborhood safe 
-Economic Development Issues
-Quality Public Transportation
-Working with our Elected Officials 
-Keeping Quality-of-Life Issues a priority
-Community Building with Neighborhood Events</p>
+
+
+Meeting Dates
+
+September 11, 2017
+
+October 9, 2017
+
+November 13 2017
+
+December 11, 2017*
+
+January 8, 2018*
+
+February 12, 2018*
+
+March 12, 2018*
+
+April 9, 2018
+
+May 14, 2018
+
+June 11, 2018
+
+* The meeting scheduled in the Rambling House.
+
+Please download the WHTCA Membership Application below to join or renew.</p>
     </div>
     );
 }
